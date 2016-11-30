@@ -11,7 +11,7 @@
  * Here MAX info here
  * https://learn.adafruit.com/adafruit-max31856-thermocouple-amplifier/overview
  * 
- * 2 simple 10 kOhm are used as controls to select the screen and the thermocouple.
+ * 2 simple 10 kOhm potentiometers are used as controls to select the screen and the thermocouple.
  * In the present demo only one thermocouple is implemented: the CDL is easily modifiable
  * to show up to 7 different sensors (search this file for 
  * "//Simulated temperature, change to your sensor"
