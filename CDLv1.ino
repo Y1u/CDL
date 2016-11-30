@@ -11,7 +11,7 @@
  * Here MAX info here
  * https://learn.adafruit.com/adafruit-max31856-thermocouple-amplifier/overview
  * 
- * Bug in Adafruit max31856 library
+ * Bug in Adafruit MAX31856 library
  * Solution here, thanks to jr226retail
  * 
  * https://forums.adafruit.com/viewtopic.php?f=19&t=104926&p=535630#p535630
