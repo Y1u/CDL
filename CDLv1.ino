@@ -11,11 +11,6 @@
  * Here MAX info here
  * https://learn.adafruit.com/adafruit-max31856-thermocouple-amplifier/overview
  * 
- * Bug in Adafruit MAX31856 library
- * Solution here, thanks to jr226retail
- * 
- * https://forums.adafruit.com/viewtopic.php?f=19&t=104926&p=535630#p535630
- * 
  * 2 simple 10 kOhm potentiometers are used as controls to select the screen and the thermocouple.
  * In the present demo only one thermocouple is implemented: the CDL is easily modifiable
  * to show up to 7 different sensors (search this file for 
