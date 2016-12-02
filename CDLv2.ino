@@ -75,7 +75,7 @@ Adafruit_MAX31856 max = Adafruit_MAX31856(MAX_CS);
 #define TIME_REQUEST  7    // ASCII bell character requests a time sync message 
 
 int line=0;
-int PreviousTime;
+long PreviousTime;
 int Control1;
 int Control2;
 int Screen;
