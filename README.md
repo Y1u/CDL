@@ -8,3 +8,4 @@ Cheap Data Logger
  * In the present demo only one thermocouple is implemented: the CDL is easily modifiable
  * to show up to 7 different sensors
  
+ More info here: http://yl4bs.blogspot.fr/2016/12/cheap-data-logger-v1.html
